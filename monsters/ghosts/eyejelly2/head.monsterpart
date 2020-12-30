@@ -1,9 +1,0 @@
-{
-  "name" : "eyejelly2-head",
-  "category" : "eyejelly2",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "eyejelly2-head.png"
-  }
-}

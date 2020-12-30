@@ -1,9 +1,0 @@
-{
-  "name" : "durasteel_burrower_segment_d",
-  "category" : "durasteel_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "durasteel_burrower_segment_d.png"
-  }
-}

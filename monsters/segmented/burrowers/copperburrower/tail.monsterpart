@@ -1,9 +1,0 @@
-{
-  "name" : "copper_burrower_tail",
-  "category" : "copper_burrower_tail",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "copper_burrower_tail.png"
-  }
-}

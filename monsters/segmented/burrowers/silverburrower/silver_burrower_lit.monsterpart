@@ -1,9 +1,0 @@
-{
-  "name" : "silver_burrower",
-  "category" : "silver_burrower",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodylit" : "silver_burrower_lit.png"
-  }
-}

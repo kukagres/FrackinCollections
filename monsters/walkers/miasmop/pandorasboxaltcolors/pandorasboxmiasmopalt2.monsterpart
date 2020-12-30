@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxmiasmopalt2",
-  "category" : "miasmop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxmiasmopalt2.png"
-  }
-}

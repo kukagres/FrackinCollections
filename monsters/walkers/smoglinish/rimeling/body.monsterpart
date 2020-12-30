@@ -1,9 +1,0 @@
-{
-  "name" : "rimeling",
-  "category" : "rimeling",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "rimeling.png"
-  }
-}

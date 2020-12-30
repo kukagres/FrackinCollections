@@ -1,9 +1,0 @@
-{
-  "name" : "violium",
-  "category" : "furobodog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "violium.png"
-  }
-}

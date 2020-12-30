@@ -1,9 +1,0 @@
-{
-  "name" : "cyan",
-  "category" : "striknik",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "cyan.png"
-  }
-}

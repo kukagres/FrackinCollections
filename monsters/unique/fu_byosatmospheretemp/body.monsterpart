@@ -1,9 +1,0 @@
-{
-  "name" : "fu_byosatmospheretemp",
-  "category" : "fu_byosatmospheretemp",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fu_byosatmospheretemp.png"
-  }
-}

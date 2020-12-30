@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "fumechspiderultra",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fumechspiderultra.png"
-  }
-}

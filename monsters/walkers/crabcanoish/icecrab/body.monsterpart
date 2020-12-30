@@ -1,9 +1,0 @@
-{
-  "name" : "icecrab",
-  "category" : "icecrab",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icecrab.png"
-  }
-}

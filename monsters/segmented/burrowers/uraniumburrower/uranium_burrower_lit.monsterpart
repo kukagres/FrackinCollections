@@ -1,9 +1,0 @@
-{
-  "name" : "uranium_burrower",
-  "category" : "uranium_burrower",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodylit" : "uranium_burrower_lit.png"
-  }
-}

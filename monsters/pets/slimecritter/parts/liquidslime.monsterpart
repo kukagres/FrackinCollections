@@ -1,9 +1,0 @@
-{
-  "name" : "liquidslime",
-  "category" : "slimecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "liquidslime.png"
-  }
-}

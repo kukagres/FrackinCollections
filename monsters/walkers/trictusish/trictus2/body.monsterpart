@@ -1,9 +1,0 @@
-{
-  "name" : "trictus2",
-  "category" : "trictus2",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "trictus2.png"
-  }
-}

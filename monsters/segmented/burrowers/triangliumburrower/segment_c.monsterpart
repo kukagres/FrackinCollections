@@ -1,9 +1,0 @@
-{
-  "name" : "trianglium_burrower_segment_c",
-  "category" : "trianglium_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "trianglium_burrower_segment_c.png"
-  }
-}

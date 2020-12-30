@@ -1,9 +1,0 @@
-{
-  "name" : "infernusdroid",
-  "category" : "infernusdroid",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "body" : "infernusdroidfullbright.png"
-  }
-}

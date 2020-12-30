@@ -1,9 +1,0 @@
-{
-  "name" : "isogen_burrower_segment_a",
-  "category" : "isogen_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "isogen_burrower_segment_a.png"
-  }
-}

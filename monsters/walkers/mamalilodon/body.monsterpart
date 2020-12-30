@@ -1,9 +1,0 @@
-{
-  "name" : "mamalilodon",
-  "category" : "mamalilodon",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "mamalilodon.png"
-  }
-}

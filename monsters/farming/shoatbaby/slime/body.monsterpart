@@ -1,9 +1,0 @@
-{
-  "name" : "slimeshoatbaby",
-  "category" : "slimeshoatbaby",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

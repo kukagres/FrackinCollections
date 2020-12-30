@@ -1,9 +1,0 @@
-{
-  "name" : "fudodofarmiron",
-  "category" : "fudodofarmiron",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

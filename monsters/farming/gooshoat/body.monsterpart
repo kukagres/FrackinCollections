@@ -1,9 +1,0 @@
-{
-  "name" : "gooshoat",
-  "category" : "gooshoat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

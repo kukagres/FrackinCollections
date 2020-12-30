@@ -1,9 +1,0 @@
-{
-  "name" : "poison",
-  "category" : "petsnuffish",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poison.png"
-  }
-}

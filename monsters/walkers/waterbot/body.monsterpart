@@ -1,9 +1,0 @@
-{
-  "name" : "waterbot",
-  "category" : "waterbot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "waterbot.png"
-  }
-}

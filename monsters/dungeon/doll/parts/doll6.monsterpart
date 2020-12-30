@@ -1,9 +1,0 @@
-{
-  "name" : "doll6",
-  "category" : "doll",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "doll6.png"
-  }
-}

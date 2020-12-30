@@ -1,9 +1,0 @@
-{
-  "name" : "icetroll",
-  "category" : "icetroll",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icetroll.png"
-  }
-}

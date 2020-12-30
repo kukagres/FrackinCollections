@@ -1,9 +1,0 @@
-{
-  "name" : "derrick",
-  "category" : "derrick",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "derrick.png"
-  }
-}

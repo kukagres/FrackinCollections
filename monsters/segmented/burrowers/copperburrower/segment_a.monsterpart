@@ -1,9 +1,0 @@
-{
-  "name" : "copper_burrower_segment_a",
-  "category" : "copper_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "copper_burrower_segment_a.png"
-  }
-}

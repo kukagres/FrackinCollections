@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxpteropodalt2",
-  "category" : "pteropod",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxpteropodalt2.png"
-  }
-}

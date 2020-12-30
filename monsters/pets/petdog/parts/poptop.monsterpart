@@ -1,9 +1,0 @@
-{
-  "name" : "poptop",
-  "category" : "petdog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poptop.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "albino",
-  "category" : "petpoptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "albino.png"
-  }
-}

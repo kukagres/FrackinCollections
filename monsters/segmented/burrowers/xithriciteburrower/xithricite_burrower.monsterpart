@@ -1,9 +1,0 @@
-{
-  "name" : "xithricite_burrower",
-  "category" : "xithricite_burrower",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "xithricite_burrower.png"
-  }
-}

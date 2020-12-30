@@ -1,9 +1,0 @@
-{
-  "name" : "ravager",
-  "category" : "ravager",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "ravager.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "plutonium_burrower",
-  "category" : "plutonium_burrower",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "plutonium_burrower.png"
-  }
-}

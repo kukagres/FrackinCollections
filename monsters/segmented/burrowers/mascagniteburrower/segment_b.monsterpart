@@ -1,9 +1,0 @@
-{
-  "name" : "mascagnite_burrower_segment_b",
-  "category" : "mascagnite_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "mascagnite_burrower_segment_b.png"
-  }
-}

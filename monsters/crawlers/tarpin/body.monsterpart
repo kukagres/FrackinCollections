@@ -1,9 +1,0 @@
-{
-  "name" : "tarpin",
-  "category" : "tarpin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "tarpin.png"
-  }
-}

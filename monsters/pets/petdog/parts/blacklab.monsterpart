@@ -1,9 +1,0 @@
-{
-  "name" : "blacklab",
-  "category" : "petdog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "blacklab.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxadultnocttop",
-  "category" : "pandorasboxadultnocttop",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "bodyfullbright" : "pandorasboxadultnocttopfullbright.png"
-  }
-}

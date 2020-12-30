@@ -1,9 +1,0 @@
-{
-  "name" : "fleshreaper",
-  "category" : "fleshreaper",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "bodyfullbright" : "fleshreaperlit.png"
-  }
-}

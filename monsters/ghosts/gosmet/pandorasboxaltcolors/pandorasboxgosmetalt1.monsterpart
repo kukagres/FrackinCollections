@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxgosmetalt1",
-  "category" : "gosmet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxgosmetalt1.png"
-  }
-}

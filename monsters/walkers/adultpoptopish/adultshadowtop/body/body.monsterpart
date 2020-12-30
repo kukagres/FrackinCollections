@@ -1,9 +1,0 @@
-{
-  "name" : "adultshadowtop",
-  "category" : "adultshadowtop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "adultshadowtop.png"
-  }
-}

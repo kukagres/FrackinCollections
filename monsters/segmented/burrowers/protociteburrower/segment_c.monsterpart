@@ -1,9 +1,0 @@
-{
-  "name" : "protocite_burrower_segment_c",
-  "category" : "protocite_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "protocite_burrower_segment_c.png"
-  }
-}

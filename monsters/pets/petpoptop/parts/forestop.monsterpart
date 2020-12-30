@@ -1,9 +1,0 @@
-{
-  "name" : "forestop",
-  "category" : "petpoptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "forestop.png"
-  }
-}

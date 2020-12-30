@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxpulpinalt1",
-  "category" : "pulpin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxpulpinalt1.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "warbot",
-  "category" : "warbot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "warbot.png"
-  }
-}

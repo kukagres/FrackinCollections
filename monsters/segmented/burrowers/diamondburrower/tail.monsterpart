@@ -1,9 +1,0 @@
-{
-  "name" : "diamond_burrower_tail",
-  "category" : "diamond_burrower_tail",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "diamond_burrower_tail.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pink",
-  "category" : "petfennix",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pink.png"
-  }
-}

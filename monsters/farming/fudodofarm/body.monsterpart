@@ -1,9 +1,0 @@
-{
-  "name" : "fudodofarm",
-  "category" : "fudodofarm",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

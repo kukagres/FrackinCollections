@@ -1,9 +1,0 @@
-{
-  "name" : "poison",
-  "category" : "slimecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "poison.png"
-  }
-}

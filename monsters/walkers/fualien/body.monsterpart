@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "fualien",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "alien.png"
-  }
-}

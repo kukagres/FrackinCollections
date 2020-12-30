@@ -1,9 +1,0 @@
-{
-  "name" : "fugiantmetalbee",
-  "category" : "fugiantmetalbee",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fugiantmetalbee.png"
-  }
-}

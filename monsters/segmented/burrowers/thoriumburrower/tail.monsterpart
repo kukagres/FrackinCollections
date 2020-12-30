@@ -1,9 +1,0 @@
-{
-  "name" : "thorium_burrower_tail",
-  "category" : "thorium_burrower_tail",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "thorium_burrower_tail.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "green",
-  "category" : "petkoopy",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "green.png"
-  }
-}

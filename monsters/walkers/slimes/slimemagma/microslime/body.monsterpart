@@ -1,9 +1,0 @@
-{
-  "name" : "magmamicroslime",
-  "category" : "magmamicroslime",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "magmamicroslime.png"
-  }
-}

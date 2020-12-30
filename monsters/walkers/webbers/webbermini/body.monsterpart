@@ -1,9 +1,0 @@
-{
-  "name" : "webbermini",
-  "category" : "webbermini",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "webbermini.png"
-  }
-}

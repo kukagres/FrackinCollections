@@ -1,9 +1,0 @@
-{
-  "name" : "sentryspawned",
-  "category" : "sentryspawned",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "sentryminidrone4.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "black",
-  "category" : "petquagmutt",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

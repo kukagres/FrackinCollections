@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxfennixalt2",
-  "category" : "fennix",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxfennixalt2.png"
-  }
-}

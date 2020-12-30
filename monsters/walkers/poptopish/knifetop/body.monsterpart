@@ -1,9 +1,0 @@
-{
-  "name" : "knifetop",
-  "category" : "knifetop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "knifetop.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxcapricoatalt1",
-  "category" : "capricoat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxcapricoatalt1.png"
-  }
-}

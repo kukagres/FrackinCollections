@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxsporgusalt2",
-  "category" : "sporgus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxsporgusalt2.png"
-  }
-}

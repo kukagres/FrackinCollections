@@ -1,9 +1,0 @@
-{
-  "name" : "feyagembot",
-  "category" : "gembot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "feyagembot.png"
-  }
-}

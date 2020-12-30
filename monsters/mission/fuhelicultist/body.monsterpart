@@ -1,9 +1,0 @@
-{
-  "name" : "fuhelicultist",
-  "category" : "fuhelicultist",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fuhelicultist.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "oceangembot",
-  "category" : "gembot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "oceangembot.png"
-  }
-}

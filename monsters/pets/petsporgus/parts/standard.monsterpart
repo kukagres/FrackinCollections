@@ -1,9 +1,0 @@
-{
-  "name" : "standard",
-  "category" : "petsporgus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "standard.png"
-  }
-}

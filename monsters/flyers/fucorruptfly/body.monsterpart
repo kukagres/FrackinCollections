@@ -1,9 +1,0 @@
-{
-  "name" : "fucorruptfly",
-  "category" : "fucorruptfly",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fucorruptfly.png"
-  }
-}

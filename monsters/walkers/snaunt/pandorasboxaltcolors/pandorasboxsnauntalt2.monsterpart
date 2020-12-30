@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxsnauntalt2",
-  "category" : "snaunt",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxsnauntalt2.png"
-  }
-}

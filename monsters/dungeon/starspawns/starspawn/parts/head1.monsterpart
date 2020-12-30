@@ -1,9 +1,0 @@
-{
-  "name" : "head1",
-  "category" : "starspawn",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "ss_head_1.png"
-  }
-}

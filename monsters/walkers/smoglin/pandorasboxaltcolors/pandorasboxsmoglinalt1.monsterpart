@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxsmoglinalt1",
-  "category" : "smoglin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxsmoglinalt1.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "opulgembot",
-  "category" : "gembot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "opulgembot.png"
-  }
-}

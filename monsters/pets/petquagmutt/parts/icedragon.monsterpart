@@ -1,9 +1,0 @@
-{
-  "name" : "icedragon",
-  "category" : "petquagmutt",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icedragon.png"
-  }
-}

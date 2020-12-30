@@ -1,9 +1,0 @@
-{
-  "name" : "gold",
-  "category" : "furobodog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "gold.png"
-  }
-}

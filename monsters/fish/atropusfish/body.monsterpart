@@ -1,9 +1,0 @@
-{
-  "name" : "atropusfish",
-  "category" : "atropusfish",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "atropusfish.png"
-  }
-}

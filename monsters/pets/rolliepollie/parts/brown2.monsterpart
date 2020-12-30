@@ -1,9 +1,0 @@
-{
-  "name" : "brown2",
-  "category" : "rolliepollie",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brown2.png"
-  }
-}

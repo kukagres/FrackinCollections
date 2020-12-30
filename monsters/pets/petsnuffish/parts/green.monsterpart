@@ -1,9 +1,0 @@
-{
-  "name" : "green",
-  "category" : "petsnuffish",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "green.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "skunk",
-  "category" : "petfennix",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "skunk.png"
-  }
-}

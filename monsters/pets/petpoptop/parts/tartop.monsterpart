@@ -1,9 +1,0 @@
-{
-  "name" : "tartop",
-  "category" : "petpoptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "tartop.png"
-  }
-}

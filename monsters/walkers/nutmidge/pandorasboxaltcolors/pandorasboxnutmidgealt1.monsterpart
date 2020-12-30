@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxnutmidgealt1",
-  "category" : "nutmidge",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxnutmidgealt1.png"
-  }
-}

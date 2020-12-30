@@ -1,9 +1,0 @@
-{
-  "name" : "spiderwalker-body2",
-  "category" : "spiderwalker2",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "spiderwalker-body2.png"
-  }
-}

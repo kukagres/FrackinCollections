@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxcaketopalt39",
-  "category" : "pandorasboxcaketop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxcaketopalt39.png"
-  }
-}

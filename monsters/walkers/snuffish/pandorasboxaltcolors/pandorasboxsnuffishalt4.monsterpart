@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxsnuffishalt4",
-  "category" : "snuffish",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxsnuffishalt4.png"
-  }
-}

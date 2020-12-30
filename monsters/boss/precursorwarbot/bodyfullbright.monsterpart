@@ -1,9 +1,0 @@
-{
-  "name" : "precursorwarbot",
-  "category" : "precursorwarbot",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "body" : "precursorwarbotfullbright.png"
-  }
-}

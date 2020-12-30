@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "lobster",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "lobster.png"
-  }
-}

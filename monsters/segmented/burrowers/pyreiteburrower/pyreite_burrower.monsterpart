@@ -1,9 +1,0 @@
-{
-  "name" : "pyreite_burrower",
-  "category" : "pyreite_burrower",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pyreite_burrower.png"
-  }
-}

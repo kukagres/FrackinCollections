@@ -1,9 +1,0 @@
-{
-  "name" : "fearmoth",
-  "category" : "fearmoth",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fearmoth.png"
-  }
-}

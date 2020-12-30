@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxhummingbugalt9",
-  "category" : "pandorasboxhummingbug",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxhummingbugalt9.png"
-  }
-}

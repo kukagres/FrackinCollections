@@ -1,9 +1,0 @@
-{
-  "name" : "deathjelly",
-  "category" : "deathjelly",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "bodyfullbright" : "deathjellyfullbright.png"
-  }
-}

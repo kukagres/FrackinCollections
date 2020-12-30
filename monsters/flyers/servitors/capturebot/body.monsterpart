@@ -1,9 +1,0 @@
-{
-  "name" : "servitorcapturebot",
-  "category" : "servitorcapturebot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "servitorcapturebot.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "wormmass",
-  "category" : "wormmass",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "wormmass.png"
-  }
-}

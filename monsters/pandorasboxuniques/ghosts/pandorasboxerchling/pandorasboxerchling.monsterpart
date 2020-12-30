@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxerchling",
-  "category" : "pandorasboxerchling",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxerchling.png"
-  }
-}

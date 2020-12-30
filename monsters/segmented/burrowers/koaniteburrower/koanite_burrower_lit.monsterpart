@@ -1,9 +1,0 @@
-{
-  "name" : "koanite_burrower",
-  "category" : "koanite_burrower",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodylit" : "koanite_burrower_lit.png"
-  }
-}

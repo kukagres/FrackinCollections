@@ -1,9 +1,0 @@
-{
-  "name" : "deepone",
-  "category" : "deepone",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "deepone.png"
-  }
-}

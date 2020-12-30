@@ -1,9 +1,0 @@
-{
-  "name" : "coldalabra",
-  "category" : "coldalabra",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

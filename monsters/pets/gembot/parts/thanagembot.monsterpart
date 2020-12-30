@@ -1,9 +1,0 @@
-{
-  "name" : "thanagembot",
-  "category" : "gembot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "thanagembot.png"
-  }
-}

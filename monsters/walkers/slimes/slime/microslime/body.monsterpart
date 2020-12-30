@@ -1,9 +1,0 @@
-{
-  "name" : "microslime",
-  "category" : "microslime",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "microslime.png"
-  }
-}

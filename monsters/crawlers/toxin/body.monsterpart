@@ -1,9 +1,0 @@
-{
-  "name" : "toxin",
-  "category" : "toxin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "toxin.png"
-  }
-}

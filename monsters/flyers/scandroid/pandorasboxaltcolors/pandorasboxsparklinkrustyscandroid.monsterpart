@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxsparklinkrustyscandroid",
-  "category" : "scandroid",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxsparklinkrustyscandroid.png"
-  }
-}

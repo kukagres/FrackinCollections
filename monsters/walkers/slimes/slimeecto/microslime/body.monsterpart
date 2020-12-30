@@ -1,9 +1,0 @@
-{
-  "name" : "ectomicroslime",
-  "category" : "ectomicroslime",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "ectomicroslime.png"
-  }
-}

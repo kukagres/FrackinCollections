@@ -1,9 +1,0 @@
-{
-  "name" : "bluepurple",
-  "category" : "slimecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "bluepurple.png"
-  }
-}

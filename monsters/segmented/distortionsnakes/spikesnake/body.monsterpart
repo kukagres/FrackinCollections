@@ -1,9 +1,0 @@
-{
-  "name" : "spikesnake",
-  "category" : "spikesnake",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "sphere.png"
-  }
-}

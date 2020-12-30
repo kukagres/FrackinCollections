@@ -1,9 +1,0 @@
-{
-  "name" : "burrower_selector",
-  "category" : "burrower_selector",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "invisibleprojectile.png"
-  }
-}

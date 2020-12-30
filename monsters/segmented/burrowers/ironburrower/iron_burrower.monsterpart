@@ -1,9 +1,0 @@
-{
-  "name" : "iron_burrower",
-  "category" : "iron_burrower",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "iron_burrower.png"
-  }
-}

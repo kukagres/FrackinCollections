@@ -1,9 +1,0 @@
-{
-  "name" : "eyeglow",
-  "category" : "shoggoth2",
-  "type" : "eyeglow",
-
-  "frames" : {
-    "eyeglow" : "eyeglow.png"
-  }
-}

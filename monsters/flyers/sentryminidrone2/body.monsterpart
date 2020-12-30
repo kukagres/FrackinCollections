@@ -1,9 +1,0 @@
-{
-  "name" : "sentryminidrone2",
-  "category" : "sentryminidrone2",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "sentryminidrone2.png"
-  }
-}

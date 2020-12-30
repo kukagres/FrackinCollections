@@ -1,9 +1,0 @@
-{
-  "name" : "deathbunny",
-  "category" : "deathbunny",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "deathbunny.png"
-  }
-}

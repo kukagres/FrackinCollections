@@ -1,9 +1,0 @@
-{
-  "name" : "black",
-  "category" : "petlilodon",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

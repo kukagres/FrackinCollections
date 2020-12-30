@@ -1,9 +1,0 @@
-{
-  "name" : "durasteel",
-  "category" : "furobodog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "durasteel.png"
-  }
-}

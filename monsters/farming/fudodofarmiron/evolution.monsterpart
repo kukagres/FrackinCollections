@@ -1,9 +1,0 @@
-{
-  "name" : "evolution",
-  "category" : "fudodofarm",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

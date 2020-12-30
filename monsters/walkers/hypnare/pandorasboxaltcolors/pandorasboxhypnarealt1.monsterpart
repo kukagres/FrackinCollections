@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxhypnarealt1",
-  "category" : "hypnare",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxhypnarealt1.png"
-  }
-}

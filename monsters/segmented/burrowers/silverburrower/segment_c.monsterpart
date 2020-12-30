@@ -1,9 +1,0 @@
-{
-  "name" : "silver_burrower_segment_c",
-  "category" : "silver_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "silver_burrower_segment_c.png"
-  }
-}

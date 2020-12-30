@@ -1,9 +1,0 @@
-{
-  "name" : "lightsprite",
-  "category" : "lightsprite",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "parasprite.png"
-  }
-}

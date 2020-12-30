@@ -1,9 +1,0 @@
-{
-  "name" : "flesh",
-  "category" : "striknik",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "flesh.png"
-  }
-}

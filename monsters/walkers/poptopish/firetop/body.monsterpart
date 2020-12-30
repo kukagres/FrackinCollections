@@ -1,9 +1,0 @@
-{
-  "name" : "firetop",
-  "category" : "firetop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "firetop.png"
-  }
-}

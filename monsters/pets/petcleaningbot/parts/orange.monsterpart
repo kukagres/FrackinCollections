@@ -1,9 +1,0 @@
-{
-  "name" : "orange",
-  "category" : "petcleaningbot",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "orange.png"
-  }
-}

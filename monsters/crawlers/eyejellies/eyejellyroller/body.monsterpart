@@ -1,9 +1,0 @@
-{
-  "name" : "eyejellyroller",
-  "category" : "eyejellyroller",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "eyejellyroller.png"
-  }
-}

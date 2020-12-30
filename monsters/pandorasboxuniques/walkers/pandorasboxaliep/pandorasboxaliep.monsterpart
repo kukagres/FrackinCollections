@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxaliep",
-  "category" : "pandorasboxaliep",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxaliep.png"
-  }
-}

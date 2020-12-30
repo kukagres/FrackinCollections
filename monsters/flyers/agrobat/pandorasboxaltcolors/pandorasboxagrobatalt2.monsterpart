@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxagrobatalt2",
-  "category" : "agrobat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxagrobatalt2.png"
-  }
-}

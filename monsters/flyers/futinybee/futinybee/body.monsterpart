@@ -1,9 +1,0 @@
-{
-  "name" : "futinybee",
-  "category" : "futinybee",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "futinybee.png"
-  }
-}

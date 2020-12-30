@@ -1,9 +1,0 @@
-{
-  "name" : "chocolatelab",
-  "category" : "petdog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "chocolatelab.png"
-  }
-}

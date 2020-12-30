@@ -1,9 +1,0 @@
-{
-  "name" : "berry",
-  "category" : "petpetricub",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "berry.png"
-  }
-}

@@ -1,7 +1,0 @@
-[
-    [
-        { "op": "test", "path": "/baseParameters/captureCollectables", "inverse" : true },
-        { "op": "add", "path": "/baseParameters/captureCollectables", "value": {} }
-    ],
-    [{ "op": "add", "path": "/baseParameters/captureCollectables/fu_monster", "value": "bunnythingmeat" }]
-]

@@ -1,9 +1,0 @@
-{
-  "name" : "fatalcircuit",
-  "category" : "fatalcircuit",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "fatalcircuit.png"
-  }
-}

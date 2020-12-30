@@ -1,9 +1,0 @@
-{
-  "name" : "eyebaht",
-  "category" : "eyebaht",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "eyebaht.png"
-  }
-}

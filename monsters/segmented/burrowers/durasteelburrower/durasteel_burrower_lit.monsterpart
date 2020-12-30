@@ -1,9 +1,0 @@
-{
-  "name" : "durasteel_burrower",
-  "category" : "durasteel_burrower",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodylit" : "durasteel_burrower_lit.png"
-  }
-}

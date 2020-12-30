@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxgleapalt6",
-  "category" : "gleap",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxgleapalt6.png"
-  }
-}

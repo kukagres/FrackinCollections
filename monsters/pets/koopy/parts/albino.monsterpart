@@ -1,9 +1,0 @@
-{
-  "name" : "albino",
-  "category" : "petkoopy",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "albino.png"
-  }
-}

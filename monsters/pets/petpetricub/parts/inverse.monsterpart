@@ -1,9 +1,0 @@
-{
-  "name" : "inverse",
-  "category" : "petpetricub",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "inverse.png"
-  }
-}

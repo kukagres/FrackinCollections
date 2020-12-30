@@ -1,9 +1,0 @@
-{
-  "name" : "prisilite_burrower_segment_a",
-  "category" : "prisilite_burrower_segment",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "prisilite_burrower_segment_a.png"
-  }
-}

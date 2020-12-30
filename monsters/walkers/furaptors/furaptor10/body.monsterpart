@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "furaptor10",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "furaptor10.png"
-  }
-}

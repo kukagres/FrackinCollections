@@ -1,9 +1,0 @@
-{
-  "name" : "eyeslime-head",
-  "category" : "eyeslime",
-  "type" : "head",
-
-  "frames" : {
-    "head" : "eyeslime-head.png"
-  }
-}

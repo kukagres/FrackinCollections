@@ -1,9 +1,0 @@
-{
-  "name" : "skywhale",
-  "category" : "skywhale",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "skywhale.png"
-  }
-}

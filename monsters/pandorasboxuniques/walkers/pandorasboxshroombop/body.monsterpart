@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxshroombop",
-  "category" : "pandorasboxshroombop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxshroombop.png"
-  }
-}

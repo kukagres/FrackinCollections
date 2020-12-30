@@ -1,9 +1,0 @@
-{
-  "name" : "standard",
-  "category" : "petfennix",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "standard.png"
-  }
-}

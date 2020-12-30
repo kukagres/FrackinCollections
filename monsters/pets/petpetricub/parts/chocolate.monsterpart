@@ -1,9 +1,0 @@
-{
-  "name" : "chocolate",
-  "category" : "petpetricub",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "chocolate.png"
-  }
-}

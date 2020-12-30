@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxpoptopalt1",
-  "category" : "poptop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxpoptopalt1.png"
-  }
-}

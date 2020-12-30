@@ -1,9 +1,0 @@
-{
-  "name" : "fluffaloaltcolorsblack",
-  "category" : "fluffalo",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "black.png"
-  }
-}

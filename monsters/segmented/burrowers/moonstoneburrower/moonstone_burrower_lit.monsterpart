@@ -1,9 +1,0 @@
-{
-  "name" : "moonstone_burrower",
-  "category" : "moonstone_burrower",
-  "type" : "bodylit",
-
-  "frames" : {
-    "bodylit" : "moonstone_burrower_lit.png"
-  }
-}

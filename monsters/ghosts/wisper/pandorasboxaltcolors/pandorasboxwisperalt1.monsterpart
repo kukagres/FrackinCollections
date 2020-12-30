@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxwisperalt1",
-  "category" : "wisper",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxwisperalt1.png"
-  }
-}

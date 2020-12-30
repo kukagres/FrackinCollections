@@ -1,9 +1,0 @@
-{
-  "name" : "direstone_burrower",
-  "category" : "direstone_burrower",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "direstone_burrower.png"
-  }
-}

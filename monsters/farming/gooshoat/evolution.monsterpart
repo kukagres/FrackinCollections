@@ -1,9 +1,0 @@
-{
-  "name" : "gooevolution",
-  "category" : "gooshoat",
-  "type" : "spawn",
-
-  "frames" : {
-    "spawn" : "evolution.png"
-  }
-}

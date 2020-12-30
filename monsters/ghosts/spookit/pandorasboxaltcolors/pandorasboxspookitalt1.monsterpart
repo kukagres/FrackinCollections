@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxspookitalt1",
-  "category" : "spookit",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxspookitalt1.png"
-  }
-}

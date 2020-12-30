@@ -1,9 +1,0 @@
-{
-  "name" : "lilodon",
-  "category" : "petfennix",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "lilodon.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "greenshoat",
-  "category" : "greenshoat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body.png"
-  }
-}

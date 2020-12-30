@@ -1,9 +1,0 @@
-{
-  "name" : "body18",
-  "category" : "starspawn",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "18.png"
-  }
-}

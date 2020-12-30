@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxmushtop",
-  "category" : "pandorasboxmushtop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxmushtop.png"
-  }
-}

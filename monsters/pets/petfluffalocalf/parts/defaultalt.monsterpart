@@ -1,9 +1,0 @@
-{
-  "name" : "defaultalt",
-  "category" : "petfluffalocalf",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "defaultalt.png"
-  }
-}

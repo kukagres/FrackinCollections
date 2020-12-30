@@ -1,9 +1,0 @@
-{
-  "name" : "brown1",
-  "category" : "feneroxpet",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brown1.png"
-  }
-}

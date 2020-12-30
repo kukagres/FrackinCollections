@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "alienwalker",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "alienwalker.png"
-  }
-}

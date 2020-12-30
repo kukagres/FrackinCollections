@@ -1,9 +1,0 @@
-{
-  "name" : "lava",
-  "category" : "slimecritter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "lava.png"
-  }
-}

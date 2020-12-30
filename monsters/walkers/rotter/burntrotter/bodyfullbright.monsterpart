@@ -1,9 +1,0 @@
-{
-  "name" : "burntrotter",
-  "category" : "burntrotter",
-  "type" : "bodyfullbright",
-
-  "frames" : {
-    "bodyfullbright" : "burntrotterfullbright.png"
-  }
-}

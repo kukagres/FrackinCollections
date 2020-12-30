@@ -1,9 +1,0 @@
-{
-  "name" : "brown-piebald",
-  "category" : "petkoopy",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brownpie.png"
-  }
-}

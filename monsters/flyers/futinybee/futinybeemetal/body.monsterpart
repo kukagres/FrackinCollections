@@ -1,9 +1,0 @@
-{
-  "name" : "futinybeemetal",
-  "category" : "futinybeemetal",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "futinybeemetal.png"
-  }
-}

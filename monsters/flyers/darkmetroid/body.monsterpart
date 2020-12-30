@@ -1,9 +1,0 @@
-{
-  "name" : "darkmetroid",
-  "category" : "darkmetroid",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "darkmetroid.png"
-  }
-}

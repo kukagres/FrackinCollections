@@ -1,9 +1,0 @@
-{
-  "name" : "icealt",
-  "category" : "petfluffalocalf",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "icealt.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "shadowbat",
-  "category" : "shadowbat",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "shadowbat.png"
-  }
-}

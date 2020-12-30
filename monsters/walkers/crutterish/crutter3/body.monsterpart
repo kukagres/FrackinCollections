@@ -1,9 +1,0 @@
-{
-  "name" : "crutter3",
-  "category" : "crutter3",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "crutter3.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxpyromantlealt1",
-  "category" : "pyromantle",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxpyromantlealt1.png"
-  }
-}

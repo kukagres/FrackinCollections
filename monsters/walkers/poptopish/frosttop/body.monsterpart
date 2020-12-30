@@ -1,9 +1,0 @@
-{
-  "name" : "frosttop",
-  "category" : "frosttop",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "frosttop.png"
-  }
-}

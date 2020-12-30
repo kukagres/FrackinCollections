@@ -1,9 +1,0 @@
-{
-  "name" : "pangolin2",
-  "category" : "pangolin",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "body2.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "azure",
-  "category" : "petsporgus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "azure.png"
-  }
-}

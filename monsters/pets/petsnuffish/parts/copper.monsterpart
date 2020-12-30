@@ -1,9 +1,0 @@
-{
-  "name" : "copper",
-  "category" : "petsnuffish",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "copper.png"
-  }
-}

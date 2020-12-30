@@ -1,9 +1,0 @@
-{
-  "name" : "spectre",
-  "category" : "petpetricub",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "spectre.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "pandorasboxskimbusalt3",
-  "category" : "skimbus",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "pandorasboxskimbusalt3.png"
-  }
-}

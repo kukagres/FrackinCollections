@@ -1,9 +1,0 @@
-{
-  "name" : "frostrotter",
-  "category" : "frostrotter",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "frostrotter.png"
-  }
-}

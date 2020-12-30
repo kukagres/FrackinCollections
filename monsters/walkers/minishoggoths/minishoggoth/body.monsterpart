@@ -1,9 +1,0 @@
-{
-  "name" : "body",
-  "category" : "minishoggothold",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "minishoggoth.png"
-  }
-}

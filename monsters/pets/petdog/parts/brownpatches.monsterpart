@@ -1,9 +1,0 @@
-{
-  "name" : "brownpatches",
-  "category" : "petdog",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "brownpatches.png"
-  }
-}

@@ -1,9 +1,0 @@
-{
-  "name" : "crustoise4",
-  "category" : "crustoise",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "crustoise4.png"
-  }
-}

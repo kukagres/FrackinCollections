@@ -1,9 +1,0 @@
-{
-  "name" : "terracotta",
-  "category" : "petlilodon",
-  "type" : "body",
-
-  "frames" : {
-    "body" : "terracotta.png"
-  }
-}
